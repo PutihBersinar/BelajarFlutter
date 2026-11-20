@@ -11,8 +11,7 @@ Aplikasi pelacak tugas sederhana (*Mini Task Tracker*) berbasis Flutter yang men
 
 Berikut adalah tampilan antarmuka aplikasi **Mini Task Tracker** saat dijalankan:
 
-![Tampilan Aplikasi Mini Task Tracker](SS_Apk.jpeg)
-
+<img width="1224" height="2720" alt="SS_Apk" src="https://github.com/user-attachments/assets/55c197e4-cbe9-464e-8534-7177bd9bc8da" />
 
 ## Langkah Menjalankan Aplikasi (*How to Run*)
 
