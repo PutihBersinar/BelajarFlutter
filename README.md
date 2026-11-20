@@ -17,12 +17,12 @@ Berikut adalah tampilan antarmuka aplikasi **Mini Task Tracker** saat dijalankan
 
 1. **Clone repositori ini** ke komputer lokal Anda:
    ```bash
-   git clone <url-repositori-github-anda>
+   git clone https://github.com/PutihBersinar/BelajarFlutter.git
    ```
 
 2. **Masuk ke direktori proyek**:
    ```bash
-   cd <nama-folder-proyek>
+   cd BelajarFlutter/mini_task_tracker
    ```
 
 3. **Unduh semua dependensi Flutter** yang diperlukan:
